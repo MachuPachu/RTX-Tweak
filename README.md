@@ -14,5 +14,5 @@ Installation:
  - Run as Admin
  
 Known Issues:
- - Windows Defender sometimes doesn't like the spoofer and 
+ - Windows Defender sometimes doesn't like the spoofer and blocks it.
  - Sometimes the .exe doesn't launch until you reboot after installing your GPU driver.
